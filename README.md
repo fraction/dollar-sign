@@ -9,7 +9,7 @@ For when you accidentally copy the `$` and get "$: command not found".
 Add the dollar sign executable to your path.
 
 ```
-curl -sSL https://raw.githubusercontent.com/christianbundy/shit/master/shit.zsh >> $HOME/.zshrc
+sudo curl -o /usr/local/bin/$ https://raw.githubusercontent.com/fraction/dollar-sign-command-not-found/master/$
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ echo "Hello, world!"
 
 ## Support
 
-Please [open an issue](https://github.com/christianbundy/shit/dollar-sign-command-not-found/new) for questions and concerns.
+Please [open an issue](https://github.com/christianbundy/dollar-sign-command-not-found/new) for questions and concerns.
 
 ## Contributing
 
