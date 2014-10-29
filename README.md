@@ -1,7 +1,7 @@
 Dollar Sign: Command Not Found
 =============================
 
-For when you accidentally copy the `$` and get "$: command not found".
+For when you accidentally copy the `$` from the command and get "$: command not found".
 
 
 ## Installation
