@@ -9,7 +9,7 @@ For when you accidentally copy the `$` from the command and get "$: command not 
 Add the dollar sign executable to your path.
 
 ```
-sudo curl -o /usr/local/bin/$ https://raw.githubusercontent.com/fraction/dollar-sign-command-not-found/master/$
+sudo curl -o /usr/local/bin/$ https://raw.githubusercontent.com/christianbundy/dollar-sign-command-not-found/master/$
 ```
 
 ## Usage
