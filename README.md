@@ -1,7 +1,7 @@
 Dollar Sign
 =============================
 
-For when you accidentally copy the `$` and your shell returns "$: command not found".
+For when you accidentally copy the dollar sign and your shell returns "$: command not found".
 
 ## Installation
 
