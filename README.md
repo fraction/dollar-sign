@@ -8,7 +8,7 @@ For when you accidentally copy the dollar sign and your shell returns "$: comman
 Add the executable to your path and give it permissions.
 
 ```
-sudo curl -o /usr/local/bin/$ https://raw.githubusercontent.com/christianbundy/dollar-sign/master/$
+sudo curl -o /usr/local/bin/$ https://raw.githubusercontent.com/fraction/dollar-sign/master/$
 sudo chmod +x /usr/local/bin/$
 ```
 
@@ -23,8 +23,8 @@ $ echo "Hello world"
 
 ## Support
 
-Please [open an issue](https://github.com/christianbundy/dollar-sign/new) for questions and concerns.
+Please [open an issue](https://github.com/fraction/dollar-sign/new) for questions and concerns.
 
 ## Contributing
 
-Fork the project, commit your changes, and [open a pull request](https://github.com/christianbundy/dollar-sign/compare/).
+Fork the project, commit your changes, and [open a pull request](https://github.com/fraction/dollar-sign/compare/).
