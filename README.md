@@ -19,6 +19,9 @@ Use the dollar sign or don't use the dollar sign – it doesn't matter at all.
 ```sh
 $ echo "Hello world"
 # Hello world
+
+$ $ $ $ $ $ $ echo "Hello world"
+# Hello world
 ```
 
 ## Support
