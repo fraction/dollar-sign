@@ -8,7 +8,7 @@ For when you accidentally copy the dollar sign and your shell returns "$: comman
 Add the executable to your path and give it permissions.
 
 ```
-sudo curl  -o /usr/local/bin/$ https://raw.githubusercontent.com/fraction/dollar-sign/master/$
+sudo curl -Lo /usr/local/bin/$ http://git.io/tRw9mQ
 sudo chmod +x /usr/local/bin/$
 ```
 
