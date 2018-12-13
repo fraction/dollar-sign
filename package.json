@@ -1,0 +1,24 @@
+{
+  "name": "dollar-sign",
+  "version": "0.0.0",
+  "description": "$: command not found",
+  "bin": {
+    "$": "./$"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fraction/dollar-sign.git"
+  },
+  "keywords": [
+    "sh",
+    "shell",
+    "bash"
+  ],
+  "author": "Fraction LLC",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/fraction/dollar-sign/issues"
+  },
+  "homepage": "https://github.com/fraction/dollar-sign#readme"
+}

@@ -12,6 +12,12 @@ sudo curl -Lo /usr/local/bin/$ http://git.io/N8t4Bg
 sudo chmod +x /usr/local/bin/$
 ```
 
+Or to install using [`npm`](https://www.npmjs.com/):
+
+```
+npm install -g dollar-sign
+```
+
 ## Usage
 
 Use the dollar sign or don't use the dollar sign – it doesn't matter at all.
