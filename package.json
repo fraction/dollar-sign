@@ -1,5 +1,5 @@
 {
-  "name": "dollar-sign",
+  "name": "@fraction/dollar-sign",
   "version": "1.0.0",
   "description": "$: command not found",
   "bin": {

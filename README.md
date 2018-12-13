@@ -15,7 +15,7 @@ sudo chmod +x /usr/local/bin/$
 Or to install using [`npm`](https://www.npmjs.com/):
 
 ```
-npm install -g dollar-sign
+npm -g install @fraction/dollar-sign
 ```
 
 ## Usage
