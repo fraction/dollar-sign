@@ -8,7 +8,7 @@ For when you accidentally copy the dollar sign and your shell returns "$: comman
 Add the executable to your path and give it permissions.
 
 ```
-sudo printf '#!/bin/sh\nexec "$@"\n' > /usr/local/bin
+sudo printf '#!/bin/sh\nexec "$@"\n' > /usr/local/bin/$
 sudo chmod +x /usr/local/bin/$
 ```
 
